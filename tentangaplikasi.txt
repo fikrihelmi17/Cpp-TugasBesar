@@ -1,0 +1,29 @@
+			--------- Tentang Aplikasi ---------
+	________________________________________________________________
+
+	Aplikasi ini dibuat oleh Fikri dan Deni, dua orang mahasiswa
+	dari universitas widyatama Reguler B2 Kelas A
+	Aplikasi ini dibuat untuk memenuhi tugas Pemrograman IV
+
+	Aplikasi ini berfungsi untuk memesan makanan di resto kedai Fajar
+	Di dalam Aplikasi ini terdapat beberapa menu, diantaranya : 
+
+	1. Discovery
+
+	- Anda bisa mengeksplor dan menemukan beberapa menu seperti
+	Informasi Aplikasi, Berbagai makanan yang tersedia, dan Juga berbagai Promo
+
+	2. Book!
+
+	- Di menu inilah anda bisa memesan makanan, anda lihat makanan apa saja yang tersedia
+	Setelah pemesanan maka keluar rincian pemesanan dan anda bisa transfer ke Rek Resto
+
+	3.Pesanan
+
+	- Disini letak history pemesanan yang telah anda lakukan
+	Terlihat nama pemesanan, yang bayar, dan alamat, dan menu apa yang dipesan
+
+	4. Profil
+
+	- Anda bisa mengisi profil anda disini atau Anda bisa juga melihat profil anda
+	________________________________________________________________

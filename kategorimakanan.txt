@@ -1,0 +1,19 @@
+--------- Kategori Makanan ---------
+
+	Seafood
+
+01	Kepiting	25K
+
+02	Kerang		20K
+
+03	Cumi		15K
+
+
+	Juice
+
+04	Alpukat		8K
+
+05	Jeruk		6K
+
+06	Sirsak		10K
+
